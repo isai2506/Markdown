@@ -44,3 +44,5 @@
        git commit -m "I add a gitignore"
     If a file has changed, type: 
        git add <files name>
+    If you have lots of changed files in your working copy - and want all of them included in the next commit: 
+       git commit -a -m "Change tittles and add a gitignore"
