@@ -2,7 +2,7 @@
 ## create and delete directories
 
     For delating from git repository and the fylesystem
-        *git rm text.txt*
+        git rm text.txt
     #Hi
       git config --global user.email 2009089@upy.edu.mx
     
