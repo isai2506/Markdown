@@ -31,10 +31,14 @@
        find . name <name of the file or folder>
   
 ## create and edit text files
+
     In Git Bash are different codes to do this, the one that you can use to create and start editing the file is: 
        vim newFile.txt
 
 ## Get the state of the computer
+
+    To know the state of the status of a repository, the code used is: 
+       git status
 
 ## The initial configuation
 
@@ -50,7 +54,9 @@
     And if you want to clone a repository, type: 
        git clone <url>
        Example: git clone https://github.com/markdown
+       
 ## Basic workflow commands to stage and commit 
+
     For commit a change, type: 
        git commit -m "I add a gitignore"
     If a file has changed, type: 
@@ -64,6 +70,7 @@
        git remote add origin https://github.com/isai2506/hola.git
     And after that the code to push to a remore repository is: 
        git push -u origin main
+       
 ## Branches: create, delete, save/commit & merge 
 
     For know what are the branches created, type: 
