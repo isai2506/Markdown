@@ -31,6 +31,10 @@
        find . name <name of the file or folder>
   
 ## create and edit text files
+    In Git Bash are different codes to do this, the one that you can use to create and start editing the file is: 
+       vim newFile.txt
+
+## Get the state of the computer
 
 ## The initial configuation
 
