@@ -70,3 +70,15 @@
  
  ## Gitflow 
  
+    Para poder realizar un gitflow es necesario hacer lo siguiente: 
+       Clonar un repositorio 
+          git clone https://github.com/markdown
+       
+       crear una rama
+          git checkout -b develop master 
+        
+       crear rama develop en el repositorio remoto 
+          git push --set-upstream origin develop 
+          
+       Iniciar gitflow
+          git flow init 
