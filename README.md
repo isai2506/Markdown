@@ -1,5 +1,5 @@
 ## Markdown
-##create and delete directories
+## create and delete directories
 
 For delating from git repository and the fylesystem
         *git rm text.txt*
