@@ -18,6 +18,13 @@
        cd desktop 
        
 ## Compare 
+
+    First you have to code: 
+       git status
+    It will sshow you what files have changed and then use:
+       git diff 
+    And this will show you what changed of the files
+       
     #Hi
       git config --global user.email 2009089@upy.edu.mx
     
