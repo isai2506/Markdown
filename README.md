@@ -39,3 +39,8 @@
     And if you want to clone a repository, type: 
        git clone <url>
        Example: git clone https://github.com/markdown
+## Basic workflow commands to stage and commit 
+    For commit a change, type: 
+       git commit -m "I add a gitignore"
+    If a file has changed, type: 
+       git add <files name>
