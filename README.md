@@ -46,3 +46,27 @@
        git add <files name>
     If you have lots of changed files in your working copy - and want all of them included in the next commit: 
        git commit -a -m "Change tittles and add a gitignore"
+       
+## Push to a remote repository
+   
+    Github give you the codes and the first one is: 
+       git remote add origin https://github.com/isai2506/hola.git
+    And after that the code to push to a remore repository is: 
+       git push -u origin main
+## Branches: create, delete, save/commit & merge 
+
+    For know what are the branches created, type: 
+       git branch
+    It will list you all the branches of the project, for create a new branch type: 
+       git branch <name of the new branch>    git branch test
+    If you want to swith of branch, type: 
+       git checkout <name of the branch>     git checkout test
+       
+    To merge two branches, first you have to switch to the main branch and type: 
+       git merge <name of the branch you want to merge>       git merge test
+       
+    To delete a branch, type: 
+       git branch -d <name of the branch you want to delete>     git branch -d test
+ 
+ ## Gitflow 
+ 
