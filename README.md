@@ -25,8 +25,17 @@
        git diff 
     And this will show you what changed of the files
        
-  ## The initial configuation
+## The initial configuation
+
       git config --global user.email 2009089@upy.edu.mx
     
     En este comandos se dan a entender que este nombre de usuario y correo serán los que se usarán en los repositorios locales
-     git config --local user.name Isai Massa
+      git config --local user.name Isai Massa
+     
+## Starting a project from zero or cloning an existing repository
+
+    If you want to create a project from zero, you should create a directory to contain the project and type: 
+       git init 
+    And if you want to clone a repository, type: 
+       git clone <url>
+       Example: git clone https://github.com/markdown
