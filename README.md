@@ -12,6 +12,12 @@
        mkdir "project algorythms"
        
 ## Navigate 
+
+    For navigate in git bash, the code is: 
+       cd <folder name>
+       cd desktop 
+       
+## Compare 
     #Hi
       git config --global user.email 2009089@upy.edu.mx
     
