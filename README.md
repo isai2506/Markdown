@@ -25,6 +25,13 @@
        git diff 
     And this will show you what changed of the files
        
+## Find files, folders and inside files
+     
+    To find a file or folder type: 
+       find . name <name of the file or folder>
+  
+## create and edit text files
+
 ## The initial configuation
 
       git config --global user.email 2009089@upy.edu.mx
